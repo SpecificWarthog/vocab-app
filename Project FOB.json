@@ -1,0 +1,2566 @@
+[
+ {
+   "Hindi": "Dooriyan",
+   "English": "Distances"
+ },
+ {
+   "Hindi": "Adhuri",
+   "English": "Incomplete"
+ },
+ {
+   "Hindi": "Aasmaan",
+   "English": "Sky"
+ },
+ {
+   "Hindi": "Chand",
+   "English": "Moon"
+ },
+ {
+   "Hindi": "Taare",
+   "English": "Stars"
+ },
+ {
+   "Hindi": "Kesari",
+   "English": "Saffron"
+ },
+ {
+   "Hindi": "Piya",
+   "English": "Love"
+ },
+ {
+   "Hindi": "Dhoonde",
+   "English": "Search"
+ },
+ {
+   "Hindi": "Akhiyan",
+   "English": "Eyes"
+ },
+ {
+   "Hindi": "Naina",
+   "English": "Eyes"
+ },
+ {
+   "Hindi": "Hawa",
+   "English": "Wind"
+ },
+ {
+   "Hindi": "Bina",
+   "English": "Without"
+ },
+ {
+   "Hindi": "Chehra",
+   "English": "Face"
+ },
+ {
+   "Hindi": "Raste",
+   "English": "Path"
+ },
+ {
+   "Hindi": "Rooh",
+   "English": "Soul"
+ },
+ {
+   "Hindi": "Sukoon",
+   "English": "Peace"
+ },
+ {
+   "Hindi": "Kabhi",
+   "English": "Sometimes"
+ },
+ {
+   "Hindi": "Khushi",
+   "English": "Happy"
+ },
+ {
+   "Hindi": "Gham",
+   "English": "Sad"
+ },
+ {
+   "Hindi": "Alvida",
+   "English": "Goodbye"
+ },
+ {
+   "Hindi": "Nadaana",
+   "English": "Innocence"
+ },
+ {
+   "Hindi": "Marjaawan",
+   "English": "Die (without you?)"
+ },
+ {
+   "Hindi": "Pyaar",
+   "English": "Love"
+ },
+ {
+   "Hindi": "Dost",
+   "English": "Friend"
+ },
+ {
+   "Hindi": "Loon",
+   "English": "Salt"
+ },
+ {
+   "Hindi": "Noon",
+   "English": "Salt"
+ },
+ {
+   "Hindi": "Chamcha",
+   "English": "Spoon"
+ },
+ {
+   "Hindi": "Chaku",
+   "English": "Knife"
+ },
+ {
+   "Hindi": "Swade",
+   "English": "Tasty"
+ },
+ {
+   "Hindi": "Hamari",
+   "English": "Our"
+ },
+ {
+   "Hindi": "Kya Hua?",
+   "English": "What's up/ what's wrong?"
+ },
+ {
+   "Hindi": "Jaanti",
+   "English": "Want"
+ },
+ {
+   "Hindi": "Bhai",
+   "English": "Brother"
+ },
+ {
+   "Hindi": "Kuri",
+   "English": "Girl"
+ },
+ {
+   "Hindi": "Ladki",
+   "English": "Girl"
+ },
+ {
+   "Hindi": "Saari",
+   "English": "All"
+ },
+ {
+   "Hindi": "Duniya",
+   "English": "World"
+ },
+ {
+   "Hindi": "Ghalti",
+   "English": "Mistake/ wrong/ fault"
+ },
+ {
+   "Hindi": "Badtameez",
+   "English": "Insolent/selfish"
+ },
+ {
+   "Hindi": "Bas",
+   "English": "Enough"
+ },
+ {
+   "Hindi": "Shaadi",
+   "English": "Marriage"
+ },
+ {
+   "Hindi": "Laal",
+   "English": "Red"
+ },
+ {
+   "Hindi": "Kala",
+   "English": "Black"
+ },
+ {
+   "Hindi": "Rani",
+   "English": "Queen"
+ },
+ {
+   "Hindi": "Jhumka",
+   "English": "Earring"
+ },
+ {
+   "Hindi": "Jhoom",
+   "English": "Dances"
+ },
+ {
+   "Hindi": "Milni",
+   "English": "Meet"
+ },
+ {
+   "Hindi": "Baatein",
+   "English": "Talks"
+ },
+ {
+   "Hindi": "Baarish",
+   "English": "Rain"
+ },
+ {
+   "Hindi": "Tanda",
+   "English": "Cold"
+ },
+ {
+   "Hindi": "Jhoot",
+   "English": "Lie"
+ },
+ {
+   "Hindi": "Makkar",
+   "English": "Fool/Con Man"
+ },
+ {
+   "Hindi": "Khatam",
+   "English": "Finished/done"
+ },
+ {
+   "Hindi": "Mubarak",
+   "English": "Congratulations"
+ },
+ {
+   "Hindi": "Kismat",
+   "English": "Fate/destiny"
+ },
+ {
+   "Hindi": "Sapna",
+   "English": "Dream"
+ },
+ {
+   "Hindi": "Zaroorat",
+   "English": "Need"
+ },
+ {
+   "Hindi": "Raksha",
+   "English": "Life/look after"
+ },
+ {
+   "Hindi": "Bal",
+   "English": "Hair"
+ },
+ {
+   "Hindi": "Lambe",
+   "English": "Long/tall"
+ },
+ {
+   "Hindi": "Pati",
+   "English": "Know/tell"
+ },
+ {
+   "Hindi": "Kahani",
+   "English": "Story"
+ },
+ {
+   "Hindi": "Ucha",
+   "English": "Upper/Louder"
+ },
+ {
+   "Hindi": "Niche",
+   "English": "Lower/Below"
+ },
+ {
+   "Hindi": "Pukka",
+   "English": "Sure"
+ },
+ {
+   "Hindi": "Paise",
+   "English": "Money"
+ },
+ {
+   "Hindi": "Jare",
+   "English": "Leave"
+ },
+ {
+   "Hindi": "Pukkha",
+   "English": "Bird"
+ },
+ {
+   "Hindi": "Kalka",
+   "English": "Yesterday"
+ },
+ {
+   "Hindi": "Kal",
+   "English": "Tomorrow"
+ },
+ {
+   "Hindi": "Bewafa",
+   "English": "Unfaithful"
+ },
+ {
+   "Hindi": "Mehboob",
+   "English": "Sweetheart"
+ },
+ {
+   "Hindi": "Akele",
+   "English": "Alone"
+ },
+ {
+   "Hindi": "Dhamaka",
+   "English": "Dramatic"
+ },
+ {
+   "Hindi": "Baar",
+   "English": "Time"
+ },
+ {
+   "Hindi": "Bheegi",
+   "English": "Drenched"
+ },
+ {
+   "Hindi": "Bahut zaroori hai",
+   "English": "Is very important"
+ },
+ {
+   "Hindi": "Kaun kaun",
+   "English": "Which"
+ },
+ {
+   "Hindi": "Jagah",
+   "English": "Place"
+ },
+ {
+   "Hindi": "Subah",
+   "English": "Morning"
+ },
+ {
+   "Hindi": "Anubhav",
+   "English": "Experience"
+ },
+ {
+   "Hindi": "Khaas",
+   "English": "Special"
+ },
+ {
+   "Hindi": "Mauka",
+   "English": "Oppourunity"
+ },
+ {
+   "Hindi": "Lajawaab",
+   "English": "Delicious"
+ },
+ {
+   "Hindi": "Lekh",
+   "English": "Article"
+ },
+ {
+   "Hindi": "Saarthak",
+   "English": "Productive"
+ },
+ {
+   "Hindi": "jaisa",
+   "English": "as"
+ },
+ {
+   "Hindi": "main",
+   "English": "I"
+ },
+ {
+   "Hindi": "unke",
+   "English": "his"
+ },
+ {
+   "Hindi": "us",
+   "English": "that"
+ },
+ {
+   "Hindi": "voh",
+   "English": "he"
+ },
+ {
+   "Hindi": "ke liye",
+   "English": "for"
+ },
+ {
+   "Hindi": "ve",
+   "English": "they"
+ },
+ {
+   "Hindi": "hona",
+   "English": "be"
+ },
+ {
+   "Hindi": "is",
+   "English": "this"
+ },
+ {
+   "Hindi": "dvaara",
+   "English": "by"
+ },
+ {
+   "Hindi": "shabd",
+   "English": "word"
+ },
+ {
+   "Hindi": "parantu",
+   "English": "but"
+ },
+ {
+   "Hindi": "kya",
+   "English": "what"
+ },
+ {
+   "Hindi": "yah",
+   "English": "it"
+ },
+ {
+   "Hindi": "�da",
+   "English": "the"
+ },
+ {
+   "Hindi": "ka",
+   "English": "of"
+ },
+ {
+   "Hindi": "seva",
+   "English": "to"
+ },
+ {
+   "Hindi": "tatha",
+   "English": "and"
+ },
+ {
+   "Hindi": "e",
+   "English": "a"
+ },
+ {
+   "Hindi": "mein",
+   "English": "in"
+ },
+ {
+   "Hindi": "ham",
+   "English": "we"
+ },
+ {
+   "Hindi": "baahar",
+   "English": "out"
+ },
+ {
+   "Hindi": "kar",
+   "English": "do"
+ },
+ {
+   "Hindi": "jo apane",
+   "English": "their"
+ },
+ {
+   "Hindi": "agar",
+   "English": "if"
+ },
+ {
+   "Hindi": "marjee",
+   "English": "will"
+ },
+ {
+   "Hindi": "kis tarah",
+   "English": "how"
+ },
+ {
+   "Hindi": "kaha hua",
+   "English": "said"
+ },
+ {
+   "Hindi": "se pratyek",
+   "English": "each"
+ },
+ {
+   "Hindi": "kahana",
+   "English": "tell"
+ },
+ {
+   "Hindi": "kar deta hai",
+   "English": "does"
+ },
+ {
+   "Hindi": "teen",
+   "English": "three"
+ },
+ {
+   "Hindi": "chaahate hain",
+   "English": "want"
+ },
+ {
+   "Hindi": "vaayu",
+   "English": "air"
+ },
+ {
+   "Hindi": "kuna",
+   "English": "well"
+ },
+ {
+   "Hindi": "chhota",
+   "English": "small"
+ },
+ {
+   "Hindi": "daal",
+   "English": "put"
+ },
+ {
+   "Hindi": "ghar",
+   "English": "home"
+ },
+ {
+   "Hindi": "padhana",
+   "English": "read"
+ },
+ {
+   "Hindi": "bandaragaah",
+   "English": "port"
+ },
+ {
+   "Hindi": "vishaal",
+   "English": "large"
+ },
+ {
+   "Hindi": "jaadoo",
+   "English": "spell"
+ },
+ {
+   "Hindi": "jodana",
+   "English": "add"
+ },
+ {
+   "Hindi": "bhoomi",
+   "English": "land"
+ },
+ {
+   "Hindi": "yahaan",
+   "English": "here"
+ },
+ {
+   "Hindi": "jaroor",
+   "English": "must"
+ },
+ {
+   "Hindi": "bade",
+   "English": "big"
+ },
+ {
+   "Hindi": "uchch",
+   "English": "high"
+ },
+ {
+   "Hindi": "aisa",
+   "English": "such"
+ },
+ {
+   "Hindi": "kaary",
+   "English": "act"
+ },
+ {
+   "Hindi": "kyon",
+   "English": "why"
+ },
+ {
+   "Hindi": "poochhana",
+   "English": "ask"
+ },
+ {
+   "Hindi": "purushon",
+   "English": "men"
+ },
+ {
+   "Hindi": "parivartan",
+   "English": "change"
+ },
+ {
+   "Hindi": "chala gaya",
+   "English": "went"
+ },
+ {
+   "Hindi": "roshanee",
+   "English": "light"
+ },
+ {
+   "Hindi": "meharabaan",
+   "English": "kind"
+ },
+ {
+   "Hindi": "band",
+   "English": "off"
+ },
+ {
+   "Hindi": "makaan",
+   "English": "house"
+ },
+ {
+   "Hindi": "chitr",
+   "English": "picture"
+ },
+ {
+   "Hindi": "prayatn",
+   "English": "try"
+ },
+ {
+   "Hindi": "hamen",
+   "English": "us"
+ },
+ {
+   "Hindi": "jaanavar",
+   "English": "animal"
+ },
+ {
+   "Hindi": "bindu",
+   "English": "point"
+ },
+ {
+   "Hindi": "maan",
+   "English": "mother"
+ },
+ {
+   "Hindi": "vishv",
+   "English": "world"
+ },
+ {
+   "Hindi": "paas mein",
+   "English": "near"
+ },
+ {
+   "Hindi": "nirmaan",
+   "English": "build"
+ },
+ {
+   "Hindi": "svayan",
+   "English": "self"
+ },
+ {
+   "Hindi": "prthvee",
+   "English": "earth"
+ },
+ {
+   "Hindi": "pita",
+   "English": "father"
+ },
+ {
+   "Hindi": "koee",
+   "English": "any"
+ },
+ {
+   "Hindi": "naya",
+   "English": "new"
+ },
+ {
+   "Hindi": "lena",
+   "English": "take"
+ },
+ {
+   "Hindi": "praapt",
+   "English": "get"
+ },
+ {
+   "Hindi": "banaaya gaya",
+   "English": "made"
+ },
+ {
+   "Hindi": "laiv",
+   "English": "live"
+ },
+ {
+   "Hindi": "kahaan pe",
+   "English": "where"
+ },
+ {
+   "Hindi": "uparaant",
+   "English": "after"
+ },
+ {
+   "Hindi": "vaapas",
+   "English": "back"
+ },
+ {
+   "Hindi": "thoda",
+   "English": "little"
+ },
+ {
+   "Hindi": "gol",
+   "English": "round"
+ },
+ {
+   "Hindi": "aadamee",
+   "English": "man"
+ },
+ {
+   "Hindi": "saal",
+   "English": "year"
+ },
+ {
+   "Hindi": "aaya",
+   "English": "came"
+ },
+ {
+   "Hindi": "pradarshan",
+   "English": "show"
+ },
+ {
+   "Hindi": "har ek",
+   "English": "every"
+ },
+ {
+   "Hindi": "achchha",
+   "English": "good"
+ },
+ {
+   "Hindi": "mujhe",
+   "English": "me"
+ },
+ {
+   "Hindi": "dena",
+   "English": "give"
+ },
+ {
+   "Hindi": "ke antargat",
+   "English": "under"
+ },
+ {
+   "Hindi": "naam",
+   "English": "name"
+ },
+ {
+   "Hindi": "prapatr",
+   "English": "form"
+ },
+ {
+   "Hindi": "vaaky",
+   "English": "sentence"
+ },
+ {
+   "Hindi": "mahaan",
+   "English": "great"
+ },
+ {
+   "Hindi": "kahate hain",
+   "English": "say"
+ },
+ {
+   "Hindi": "madad",
+   "English": "help"
+ },
+ {
+   "Hindi": "kam",
+   "English": "low"
+ },
+ {
+   "Hindi": "lain",
+   "English": "line"
+ },
+ {
+   "Hindi": "mod",
+   "English": "turn"
+ },
+ {
+   "Hindi": "kaaran",
+   "English": "cause"
+ },
+ {
+   "Hindi": "matalab",
+   "English": "mean"
+ },
+ {
+   "Hindi": "isase pahale",
+   "English": "before"
+ },
+ {
+   "Hindi": "chaal",
+   "English": "move"
+ },
+ {
+   "Hindi": "sahee",
+   "English": "right"
+ },
+ {
+   "Hindi": "ladaka",
+   "English": "boy"
+ },
+ {
+   "Hindi": "puraana",
+   "English": "old"
+ },
+ {
+   "Hindi": "vahee",
+   "English": "same"
+ },
+ {
+   "Hindi": "vah",
+   "English": "she"
+ },
+ {
+   "Hindi": "sab",
+   "English": "all"
+ },
+ {
+   "Hindi": "vahaan",
+   "English": "there"
+ },
+ {
+   "Hindi": "kab",
+   "English": "when"
+ },
+ {
+   "Hindi": "yoopee",
+   "English": "up"
+ },
+ {
+   "Hindi": "upayog",
+   "English": "use"
+ },
+ {
+   "Hindi": "tumhaaree",
+   "English": "your"
+ },
+ {
+   "Hindi": "maarg",
+   "English": "way"
+ },
+ {
+   "Hindi": "ke baare mein",
+   "English": "about"
+ },
+ {
+   "Hindi": "anek",
+   "English": "many"
+ },
+ {
+   "Hindi": "unhen",
+   "English": "them"
+ },
+ {
+   "Hindi": "likhana",
+   "English": "write"
+ },
+ {
+   "Hindi": "chaahenge",
+   "English": "would"
+ },
+ {
+   "Hindi": "isalie",
+   "English": "so"
+ },
+ {
+   "Hindi": "in",
+   "English": "these"
+ },
+ {
+   "Hindi": "usake",
+   "English": "her"
+ },
+ {
+   "Hindi": "banaana",
+   "English": "make"
+ },
+ {
+   "Hindi": "cheez",
+   "English": "thing"
+ },
+ {
+   "Hindi": "dekh",
+   "English": "see"
+ },
+ {
+   "Hindi": "do",
+   "English": "two"
+ },
+ {
+   "Hindi": "nazar",
+   "English": "look"
+ },
+ {
+   "Hindi": "adhik",
+   "English": "more"
+ },
+ {
+   "Hindi": "sakata hai",
+   "English": "could"
+ },
+ {
+   "Hindi": "jao",
+   "English": "go"
+ },
+ {
+   "Hindi": "aaie",
+   "English": "come"
+ },
+ {
+   "Hindi": "kiya tha",
+   "English": "did"
+ },
+ {
+   "Hindi": "sankhya",
+   "English": "number"
+ },
+ {
+   "Hindi": "dhvani",
+   "English": "sound"
+ },
+ {
+   "Hindi": "adhikaansh",
+   "English": "most"
+ },
+ {
+   "Hindi": "log",
+   "English": "people"
+ },
+ {
+   "Hindi": "mere",
+   "English": "my"
+ },
+ {
+   "Hindi": "oopar",
+   "English": "over"
+ },
+ {
+   "Hindi": "jaanana",
+   "English": "know"
+ },
+ {
+   "Hindi": "paanee",
+   "English": "water"
+ },
+ {
+   "Hindi": "kol",
+   "English": "call"
+ },
+ {
+   "Hindi": "pratham",
+   "English": "first"
+ },
+ {
+   "Hindi": "kaun",
+   "English": "who"
+ },
+ {
+   "Hindi": "neeche",
+   "English": "down"
+ },
+ {
+   "Hindi": "paksh",
+   "English": "side"
+ },
+ {
+   "Hindi": "gaya",
+   "English": "been"
+ },
+ {
+   "Hindi": "abhee",
+   "English": "now"
+ },
+ {
+   "Hindi": "sir",
+   "English": "head"
+ },
+ {
+   "Hindi": "khada",
+   "English": "stand"
+ },
+ {
+   "Hindi": "apana",
+   "English": "own"
+ },
+ {
+   "Hindi": "prshth",
+   "English": "page"
+ },
+ {
+   "Hindi": "chaahie",
+   "English": "should"
+ },
+ {
+   "Hindi": "desh",
+   "English": "country"
+ },
+ {
+   "Hindi": "mil gaya",
+   "English": "found"
+ },
+ {
+   "Hindi": "skool",
+   "English": "school"
+ },
+ {
+   "Hindi": "badhana",
+   "English": "grow"
+ },
+ {
+   "Hindi": "adhyayan",
+   "English": "study"
+ },
+ {
+   "Hindi": "phir bhee",
+   "English": "still"
+ },
+ {
+   "Hindi": "seekhana",
+   "English": "learn"
+ },
+ {
+   "Hindi": "paudha",
+   "English": "plant"
+ },
+ {
+   "Hindi": "aavaran",
+   "English": "cover"
+ },
+ {
+   "Hindi": "khaana",
+   "English": "food"
+ },
+ {
+   "Hindi": "ravi",
+   "English": "sun"
+ },
+ {
+   "Hindi": "chaar",
+   "English": "four"
+ },
+ {
+   "Hindi": "ke beech",
+   "English": "between"
+ },
+ {
+   "Hindi": "raajy",
+   "English": "state"
+ },
+ {
+   "Hindi": "rakhana",
+   "English": "keep"
+ },
+ {
+   "Hindi": "aankh",
+   "English": "eye"
+ },
+ {
+   "Hindi": "antim",
+   "English": "last"
+ },
+ {
+   "Hindi": "chalo",
+   "English": "let"
+ },
+ {
+   "Hindi": "shehar",
+   "English": "city"
+ },
+ {
+   "Hindi": "ped",
+   "English": "tree"
+ },
+ {
+   "Hindi": "khet",
+   "English": "farm"
+ },
+ {
+   "Hindi": "kahaanee",
+   "English": "story"
+ },
+ {
+   "Hindi": "dekha",
+   "English": "saw"
+ },
+ {
+   "Hindi": "door",
+   "English": "far"
+ },
+ {
+   "Hindi": "samudr",
+   "English": "sea"
+ },
+ {
+   "Hindi": "kheenchana",
+   "English": "draw"
+ },
+ {
+   "Hindi": "baen",
+   "English": "left"
+ },
+ {
+   "Hindi": "der se",
+   "English": "late"
+ },
+ {
+   "Hindi": "jabaki",
+   "English": "while"
+ },
+ {
+   "Hindi": "dabaen",
+   "English": "press"
+ },
+ {
+   "Hindi": "band kare",
+   "English": "close"
+ },
+ {
+   "Hindi": "raat",
+   "English": "night"
+ },
+ {
+   "Hindi": "asalee",
+   "English": "real"
+ },
+ {
+   "Hindi": "jindagee",
+   "English": "life"
+ },
+ {
+   "Hindi": "kitaab",
+   "English": "book"
+ },
+ {
+   "Hindi": "kairee",
+   "English": "carry"
+ },
+ {
+   "Hindi": "liya",
+   "English": "took"
+ },
+ {
+   "Hindi": "vigyaan",
+   "English": "science"
+ },
+ {
+   "Hindi": "kha",
+   "English": "eat"
+ },
+ {
+   "Hindi": "kaksh",
+   "English": "room"
+ },
+ {
+   "Hindi": "mitr",
+   "English": "friend"
+ },
+ {
+   "Hindi": "shuroo hua",
+   "English": "began"
+ },
+ {
+   "Hindi": "machhalee",
+   "English": "fish"
+ },
+ {
+   "Hindi": "ruken",
+   "English": "stop"
+ },
+ {
+   "Hindi": "ek baar",
+   "English": "once"
+ },
+ {
+   "Hindi": "aadhaar",
+   "English": "base"
+ },
+ {
+   "Hindi": "suno",
+   "English": "hear"
+ },
+ {
+   "Hindi": "ghoda",
+   "English": "horse"
+ },
+ {
+   "Hindi": "kat gaya",
+   "English": "cut"
+ },
+ {
+   "Hindi": "zaroor",
+   "English": "need"
+ },
+ {
+   "Hindi": "lakadee",
+   "English": "wood"
+ },
+ {
+   "Hindi": "mukhy",
+   "English": "main"
+ },
+ {
+   "Hindi": "khula hua",
+   "English": "open"
+ },
+ {
+   "Hindi": "lagata hai",
+   "English": "seem"
+ },
+ {
+   "Hindi": "aage",
+   "English": "next"
+ },
+ {
+   "Hindi": "saphed",
+   "English": "white"
+ },
+ {
+   "Hindi": "bachche",
+   "English": "children"
+ },
+ {
+   "Hindi": "tahal lo",
+   "English": "walk"
+ },
+ {
+   "Hindi": "udaaharan",
+   "English": "example"
+ },
+ {
+   "Hindi": "aaraam",
+   "English": "ease"
+ },
+ {
+   "Hindi": "kaagaz",
+   "English": "paper"
+ },
+ {
+   "Hindi": "samooh",
+   "English": "group"
+ },
+ {
+   "Hindi": "hamesha",
+   "English": "always"
+ },
+ {
+   "Hindi": "sangeet",
+   "English": "music"
+ },
+ {
+   "Hindi": "un",
+   "English": "those"
+ },
+ {
+   "Hindi": "donon",
+   "English": "both"
+ },
+ {
+   "Hindi": "nishaan",
+   "English": "mark"
+ },
+ {
+   "Hindi": "aksar",
+   "English": "often"
+ },
+ {
+   "Hindi": "patr",
+   "English": "letter"
+ },
+ {
+   "Hindi": "vibhaajan",
+   "English": "divide"
+ },
+ {
+   "Hindi": "shabdaansh",
+   "English": "syllable"
+ },
+ {
+   "Hindi": "bada",
+   "English": "grand"
+ },
+ {
+   "Hindi": "gend",
+   "English": "ball"
+ },
+ {
+   "Hindi": "abhee tak",
+   "English": "yet"
+ },
+ {
+   "Hindi": "lahar",
+   "English": "wave"
+ },
+ {
+   "Hindi": "dil",
+   "English": "heart"
+ },
+ {
+   "Hindi": "baje",
+   "English": "am"
+ },
+ {
+   "Hindi": "vartamaan",
+   "English": "present"
+ },
+ {
+   "Hindi": "bhaaree",
+   "English": "heavy"
+ },
+ {
+   "Hindi": "nrty",
+   "English": "dance"
+ },
+ {
+   "Hindi": "yantr",
+   "English": "engine"
+ },
+ {
+   "Hindi": "chauda",
+   "English": "wide"
+ },
+ {
+   "Hindi": "paal",
+   "English": "sail"
+ },
+ {
+   "Hindi": "saamagree",
+   "English": "material"
+ },
+ {
+   "Hindi": "jangal",
+   "English": "forest"
+ },
+ {
+   "Hindi": "baithiye",
+   "English": "sit"
+ },
+ {
+   "Hindi": "khidakee",
+   "English": "window"
+ },
+ {
+   "Hindi": "dukaan",
+   "English": "store"
+ },
+ {
+   "Hindi": "garmee",
+   "English": "summer"
+ },
+ {
+   "Hindi": "rel gaadee",
+   "English": "train"
+ },
+ {
+   "Hindi": "neend",
+   "English": "sleep"
+ },
+ {
+   "Hindi": "akela",
+   "English": "lone"
+ },
+ {
+   "Hindi": "taang",
+   "English": "leg"
+ },
+ {
+   "Hindi": "vyaayaam",
+   "English": "exercise"
+ },
+ {
+   "Hindi": "deevaar",
+   "English": "wall"
+ },
+ {
+   "Hindi": "pakad",
+   "English": "catch"
+ },
+ {
+   "Hindi": "tamanna",
+   "English": "wish"
+ },
+ {
+   "Hindi": "aakaash",
+   "English": "sky"
+ },
+ {
+   "Hindi": "mandal",
+   "English": "board"
+ },
+ {
+   "Hindi": "harsh",
+   "English": "joy"
+ },
+ {
+   "Hindi": "sardee",
+   "English": "winter"
+ },
+ {
+   "Hindi": "baith gaya",
+   "English": "sat"
+ },
+ {
+   "Hindi": "likha hua",
+   "English": "written"
+ },
+ {
+   "Hindi": "jangalee",
+   "English": "wild"
+ },
+ {
+   "Hindi": "saadhan",
+   "English": "instrument"
+ },
+ {
+   "Hindi": "rakha",
+   "English": "kept"
+ },
+ {
+   "Hindi": "kaanch",
+   "English": "glass"
+ },
+ {
+   "Hindi": "ghaas",
+   "English": "grass"
+ },
+ {
+   "Hindi": "gaay",
+   "English": "cow"
+ },
+ {
+   "Hindi": "dhaar",
+   "English": "edge"
+ },
+ {
+   "Hindi": "sanket",
+   "English": "sign"
+ },
+ {
+   "Hindi": "ateet",
+   "English": "past"
+ },
+ {
+   "Hindi": "mulaayam",
+   "English": "soft"
+ },
+ {
+   "Hindi": "aanand",
+   "English": "fun"
+ },
+ {
+   "Hindi": "ujjval",
+   "English": "bright"
+ },
+ {
+   "Hindi": "gais",
+   "English": "gas"
+ },
+ {
+   "Hindi": "maheena",
+   "English": "month"
+ },
+ {
+   "Hindi": "das laakh",
+   "English": "million"
+ },
+ {
+   "Hindi": "bhaaloo",
+   "English": "bear"
+ },
+ {
+   "Hindi": "prasann",
+   "English": "happy"
+ },
+ {
+   "Hindi": "aasha",
+   "English": "hope"
+ },
+ {
+   "Hindi": "phool",
+   "English": "flower"
+ },
+ {
+   "Hindi": "kapade",
+   "English": "clothe"
+ },
+ {
+   "Hindi": "ajeeb",
+   "English": "strange"
+ },
+ {
+   "Hindi": "gaya hua",
+   "English": "gone"
+ },
+ {
+   "Hindi": "vyaapaar",
+   "English": "trade"
+ },
+ {
+   "Hindi": "raag",
+   "English": "melody"
+ },
+ {
+   "Hindi": "kaaryaalay",
+   "English": "office"
+ },
+ {
+   "Hindi": "pankti",
+   "English": "row"
+ },
+ {
+   "Hindi": "munh",
+   "English": "mouth"
+ },
+ {
+   "Hindi": "sateek",
+   "English": "exact"
+ },
+ {
+   "Hindi": "prateek",
+   "English": "symbol"
+ },
+ {
+   "Hindi": "marana",
+   "English": "die"
+ },
+ {
+   "Hindi": "kam se kam",
+   "English": "least"
+ },
+ {
+   "Hindi": "museebat",
+   "English": "trouble"
+ },
+ {
+   "Hindi": "chillaana",
+   "English": "shout"
+ },
+ {
+   "Hindi": "ke sivaay",
+   "English": "except"
+ },
+ {
+   "Hindi": "likha tha",
+   "English": "wrote"
+ },
+ {
+   "Hindi": "beej",
+   "English": "seed"
+ },
+ {
+   "Hindi": "sur",
+   "English": "tone"
+ },
+ {
+   "Hindi": "sujhaana",
+   "English": "suggest"
+ },
+ {
+   "Hindi": "svachchh",
+   "English": "clean"
+ },
+ {
+   "Hindi": "tootana",
+   "English": "break"
+ },
+ {
+   "Hindi": "yaard",
+   "English": "yard"
+ },
+ {
+   "Hindi": "vrddhi",
+   "English": "rise"
+ },
+ {
+   "Hindi": "kharaab",
+   "English": "bad"
+ },
+ {
+   "Hindi": "tel",
+   "English": "oil"
+ },
+ {
+   "Hindi": "rakt",
+   "English": "blood"
+ },
+ {
+   "Hindi": "sparsh",
+   "English": "touch"
+ },
+ {
+   "Hindi": "badhee",
+   "English": "grew"
+ },
+ {
+   "Hindi": "pratishat",
+   "English": "cent"
+ },
+ {
+   "Hindi": "mishran",
+   "English": "mix"
+ },
+ {
+   "Hindi": "teem",
+   "English": "team"
+ },
+ {
+   "Hindi": "laagat",
+   "English": "cost"
+ },
+ {
+   "Hindi": "kho gaya",
+   "English": "lost"
+ },
+ {
+   "Hindi": "bhoora",
+   "English": "brown"
+ },
+ {
+   "Hindi": "pahan lena",
+   "English": "wear"
+ },
+ {
+   "Hindi": "bageecha",
+   "English": "garden"
+ },
+ {
+   "Hindi": "baraabaree ka",
+   "English": "equal"
+ },
+ {
+   "Hindi": "bhej diya",
+   "English": "sent"
+ },
+ {
+   "Hindi": "chunen",
+   "English": "choose"
+ },
+ {
+   "Hindi": "gir gaya",
+   "English": "fell"
+ },
+ {
+   "Hindi": "phit",
+   "English": "fit"
+ },
+ {
+   "Hindi": "bahe",
+   "English": "flow"
+ },
+ {
+   "Hindi": "nishpaksh",
+   "English": "fair"
+ },
+ {
+   "Hindi": "baink",
+   "English": "bank"
+ },
+ {
+   "Hindi": "kalekt",
+   "English": "collect"
+ },
+ {
+   "Hindi": "sahejen",
+   "English": "save"
+ },
+ {
+   "Hindi": "niyantran",
+   "English": "control"
+ },
+ {
+   "Hindi": "dashamalav",
+   "English": "decimal"
+ },
+ {
+   "Hindi": "kaan",
+   "English": "ear"
+ },
+ {
+   "Hindi": "kaaphee",
+   "English": "quite"
+ },
+ {
+   "Hindi": "tod diya",
+   "English": "broke"
+ },
+ {
+   "Hindi": "maamala",
+   "English": "case"
+ },
+ {
+   "Hindi": "madhy",
+   "English": "middle"
+ },
+ {
+   "Hindi": "maar",
+   "English": "kill"
+ },
+ {
+   "Hindi": "beta",
+   "English": "son"
+ },
+ {
+   "Hindi": "jheel",
+   "English": "lake"
+ },
+ {
+   "Hindi": "pal",
+   "English": "moment"
+ },
+ {
+   "Hindi": "skel",
+   "English": "scale"
+ },
+ {
+   "Hindi": "jor",
+   "English": "loud"
+ },
+ {
+   "Hindi": "vasant",
+   "English": "spring"
+ },
+ {
+   "Hindi": "nireekshan",
+   "English": "observe"
+ },
+ {
+   "Hindi": "seedhe",
+   "English": "straight"
+ },
+ {
+   "Hindi": "vyanjan",
+   "English": "consonant"
+ },
+ {
+   "Hindi": "raashtr",
+   "English": "nation"
+ },
+ {
+   "Hindi": "shabdakosh",
+   "English": "dictionary"
+ },
+ {
+   "Hindi": "doodh",
+   "English": "milk"
+ },
+ {
+   "Hindi": "gati",
+   "English": "speed"
+ },
+ {
+   "Hindi": "tareeka",
+   "English": "method"
+ },
+ {
+   "Hindi": "ang",
+   "English": "organ"
+ },
+ {
+   "Hindi": "vetan",
+   "English": "pay"
+ },
+ {
+   "Hindi": "aayu",
+   "English": "age"
+ },
+ {
+   "Hindi": "anubhaag",
+   "English": "section"
+ },
+ {
+   "Hindi": "poshaak",
+   "English": "dress"
+ },
+ {
+   "Hindi": "baadal",
+   "English": "cloud"
+ },
+ {
+   "Hindi": "aashchary",
+   "English": "surprise"
+ },
+ {
+   "Hindi": "patthar",
+   "English": "stone"
+ },
+ {
+   "Hindi": "chhote",
+   "English": "tiny"
+ },
+ {
+   "Hindi": "chadhana",
+   "English": "climb"
+ },
+ {
+   "Hindi": "thanda",
+   "English": "cool"
+ },
+ {
+   "Hindi": "dizain",
+   "English": "design"
+ },
+ {
+   "Hindi": "gareeb",
+   "English": "poor"
+ },
+ {
+   "Hindi": "prayog",
+   "English": "experiment"
+ },
+ {
+   "Hindi": "tal",
+   "English": "bottom"
+ },
+ {
+   "Hindi": "chaabhee",
+   "English": "key"
+ },
+ {
+   "Hindi": "loha",
+   "English": "iron"
+ },
+ {
+   "Hindi": "chhadee",
+   "English": "stick"
+ },
+ {
+   "Hindi": "samatal",
+   "English": "flat"
+ },
+ {
+   "Hindi": "bees",
+   "English": "twenty"
+ },
+ {
+   "Hindi": "tvacha",
+   "English": "skin"
+ },
+ {
+   "Hindi": "muskurao",
+   "English": "smile"
+ },
+ {
+   "Hindi": "shikan",
+   "English": "crease"
+ },
+ {
+   "Hindi": "chhed",
+   "English": "hole"
+ },
+ {
+   "Hindi": "kood",
+   "English": "jump"
+ },
+ {
+   "Hindi": "aath",
+   "English": "eight"
+ },
+ {
+   "Hindi": "gaanv",
+   "English": "village"
+ },
+ {
+   "Hindi": "milana",
+   "English": "meet"
+ },
+ {
+   "Hindi": "jad",
+   "English": "root"
+ },
+ {
+   "Hindi": "khareed",
+   "English": "buy"
+ },
+ {
+   "Hindi": "badhaane",
+   "English": "raise"
+ },
+ {
+   "Hindi": "dhaatu",
+   "English": "metal"
+ },
+ {
+   "Hindi": "dhakka den",
+   "English": "push"
+ },
+ {
+   "Hindi": "saat",
+   "English": "seven"
+ },
+ {
+   "Hindi": "anuchchhed",
+   "English": "paragraph"
+ },
+ {
+   "Hindi": "teesara",
+   "English": "third"
+ },
+ {
+   "Hindi": "karega",
+   "English": "shall"
+ },
+ {
+   "Hindi": "aayojit",
+   "English": "held"
+ },
+ {
+   "Hindi": "varnan",
+   "English": "describe"
+ },
+ {
+   "Hindi": "rasoiya",
+   "English": "cook"
+ },
+ {
+   "Hindi": "manzil",
+   "English": "floor"
+ },
+ {
+   "Hindi": "parinaam",
+   "English": "result"
+ },
+ {
+   "Hindi": "jalaana",
+   "English": "burn"
+ },
+ {
+   "Hindi": "pahaadee",
+   "English": "hill"
+ },
+ {
+   "Hindi": "surakshit",
+   "English": "safe"
+ },
+ {
+   "Hindi": "billee",
+   "English": "cat"
+ },
+ {
+   "Hindi": "sadee",
+   "English": "century"
+ },
+ {
+   "Hindi": "prakaar",
+   "English": "type"
+ },
+ {
+   "Hindi": "kaanoon",
+   "English": "law"
+ },
+ {
+   "Hindi": "tat",
+   "English": "coast"
+ },
+ {
+   "Hindi": "pratilipi",
+   "English": "copy"
+ },
+ {
+   "Hindi": "muhaavara",
+   "English": "phrase"
+ },
+ {
+   "Hindi": "mook",
+   "English": "silent"
+ },
+ {
+   "Hindi": "ret",
+   "English": "sand"
+ },
+ {
+   "Hindi": "mittee",
+   "English": "soil"
+ },
+ {
+   "Hindi": "ghoomana",
+   "English": "roll"
+ },
+ {
+   "Hindi": "taapamaan",
+   "English": "temperature"
+ },
+ {
+   "Hindi": "ungalee",
+   "English": "finger"
+ },
+ {
+   "Hindi": "udyog",
+   "English": "industry"
+ },
+ {
+   "Hindi": "mooly",
+   "English": "value"
+ },
+ {
+   "Hindi": "ladaee",
+   "English": "fight"
+ },
+ {
+   "Hindi": "jhooth",
+   "English": "lie"
+ },
+ {
+   "Hindi": "haraana",
+   "English": "beat"
+ },
+ {
+   "Hindi": "eksait",
+   "English": "excite"
+ },
+ {
+   "Hindi": "praakrtik",
+   "English": "natural"
+ },
+ {
+   "Hindi": "raay",
+   "English": "view"
+ },
+ {
+   "Hindi": "samajh",
+   "English": "sense"
+ },
+ {
+   "Hindi": "raajadhaanee",
+   "English": "capital"
+ },
+ {
+   "Hindi": "nahin hoga",
+   "English": "won�t"
+ },
+ {
+   "Hindi": "kurasee",
+   "English": "chair"
+ },
+ {
+   "Hindi": "khatara",
+   "English": "danger"
+ },
+ {
+   "Hindi": "phal",
+   "English": "fruit"
+ },
+ {
+   "Hindi": "dhanee",
+   "English": "rich"
+ },
+ {
+   "Hindi": "mota",
+   "English": "thick"
+ },
+ {
+   "Hindi": "phojee",
+   "English": "soldier"
+ },
+ {
+   "Hindi": "prakriya",
+   "English": "process"
+ },
+ {
+   "Hindi": "sanchaalit",
+   "English": "operate"
+ },
+ {
+   "Hindi": "abhyaas",
+   "English": "practice"
+ },
+ {
+   "Hindi": "chikitsak",
+   "English": "doctor"
+ },
+ {
+   "Hindi": "krpya",
+   "English": "please"
+ },
+ {
+   "Hindi": "dopahar",
+   "English": "noon"
+ },
+ {
+   "Hindi": "kaatana",
+   "English": "crop"
+ },
+ {
+   "Hindi": "aadhunik",
+   "English": "modern"
+ },
+ {
+   "Hindi": "tattv",
+   "English": "element"
+ },
+ {
+   "Hindi": "maaro",
+   "English": "hit"
+ },
+ {
+   "Hindi": "chhaatr",
+   "English": "student"
+ },
+ {
+   "Hindi": "kona",
+   "English": "corner"
+ },
+ {
+   "Hindi": "paartee",
+   "English": "party"
+ },
+ {
+   "Hindi": "aapoorti",
+   "English": "supply"
+ },
+ {
+   "Hindi": "kisaka",
+   "English": "whose"
+ },
+ {
+   "Hindi": "angoothee",
+   "English": "ring"
+ },
+ {
+   "Hindi": "charitr",
+   "English": "character"
+ },
+ {
+   "Hindi": "keet",
+   "English": "insect"
+ },
+ {
+   "Hindi": "pakade gae",
+   "English": "caught"
+ },
+ {
+   "Hindi": "avadhi",
+   "English": "period"
+ },
+ {
+   "Hindi": "sanket milata hai",
+   "English": "indicate"
+ },
+ {
+   "Hindi": "rediyo",
+   "English": "radio"
+ },
+ {
+   "Hindi": "spok",
+   "English": "spoke"
+ },
+ {
+   "Hindi": "paramaanu",
+   "English": "atom"
+ },
+ {
+   "Hindi": "maanav",
+   "English": "human"
+ },
+ {
+   "Hindi": "itihaas",
+   "English": "history"
+ },
+ {
+   "Hindi": "prabhaav",
+   "English": "effect"
+ },
+ {
+   "Hindi": "bijalee",
+   "English": "electric"
+ },
+ {
+   "Hindi": "ummeed",
+   "English": "expect"
+ },
+ {
+   "Hindi": "haddee",
+   "English": "bone"
+ },
+ {
+   "Hindi": "rel",
+   "English": "rail"
+ },
+ {
+   "Hindi": "sajjan",
+   "English": "gentle"
+ },
+ {
+   "Hindi": "kaptaan",
+   "English": "captain"
+ },
+ {
+   "Hindi": "anumaan",
+   "English": "guess"
+ },
+ {
+   "Hindi": "zarooree",
+   "English": "necessary"
+ },
+ {
+   "Hindi": "tez",
+   "English": "sharp"
+ },
+ {
+   "Hindi": "ving",
+   "English": "wing"
+ },
+ {
+   "Hindi": "srjan karana",
+   "English": "create"
+ },
+ {
+   "Hindi": "padosee",
+   "English": "neighbor"
+ },
+ {
+   "Hindi": "dhulaee",
+   "English": "wash"
+ },
+ {
+   "Hindi": "balla",
+   "English": "bat"
+ },
+ {
+   "Hindi": "balki",
+   "English": "rather"
+ },
+ {
+   "Hindi": "bheed",
+   "English": "crowd"
+ },
+ {
+   "Hindi": "makka",
+   "English": "corn"
+ },
+ {
+   "Hindi": "tulana",
+   "English": "compare"
+ },
+ {
+   "Hindi": "kavita",
+   "English": "poem"
+ },
+ {
+   "Hindi": "ghantee",
+   "English": "bell"
+ },
+ {
+   "Hindi": "nirbhar",
+   "English": "depend"
+ },
+ {
+   "Hindi": "maans",
+   "English": "meat"
+ },
+ {
+   "Hindi": "ragad",
+   "English": "rub"
+ },
+ {
+   "Hindi": "tyoob",
+   "English": "tube"
+ },
+ {
+   "Hindi": "prasiddh",
+   "English": "famous"
+ },
+ {
+   "Hindi": "dolar",
+   "English": "dollar"
+ },
+ {
+   "Hindi": "dhaara",
+   "English": "stream"
+ },
+ {
+   "Hindi": "dar",
+   "English": "fear"
+ },
+ {
+   "Hindi": "drshti",
+   "English": "sight"
+ },
+ {
+   "Hindi": "patala",
+   "English": "thin"
+ },
+ {
+   "Hindi": "trikon",
+   "English": "triangle"
+ },
+ {
+   "Hindi": "grah",
+   "English": "planet"
+ },
+ {
+   "Hindi": "daar sar",
+   "English": "chief"
+ },
+ {
+   "Hindi": "kaalonee",
+   "English": "colony"
+ },
+ {
+   "Hindi": "meree",
+   "English": "mine"
+ },
+ {
+   "Hindi": "guloband",
+   "English": "tie"
+ },
+ {
+   "Hindi": "darj",
+   "English": "enter"
+ },
+ {
+   "Hindi": "pramukh",
+   "English": "major"
+ },
+ {
+   "Hindi": "taaza",
+   "English": "fresh"
+ },
+ {
+   "Hindi": "bhejane",
+   "English": "send"
+ },
+ {
+   "Hindi": "peela",
+   "English": "yellow"
+ },
+ {
+   "Hindi": "bandook",
+   "English": "gun"
+ },
+ {
+   "Hindi": "andar",
+   "English": "Inside"
+ },
+ {
+   "Hindi": "dhimi",
+   "English": "Slow"
+ },
+ {
+   "Hindi": "hara",
+   "English": "Green"
+ },
+ {
+   "Hindi": "neela",
+   "English": "Blue"
+ },
+ {
+   "Hindi": "aasaan",
+   "English": "Easy"
+ },
+ {
+   "Hindi": "mushkil",
+   "English": "Difficult"
+ },
+ {
+   "Hindi": "nadi",
+   "English": "River"
+ },
+ {
+   "Hindi": "pahad",
+   "English": "Mountain"
+ },
+ {
+   "Hindi": "din",
+   "English": "Day"
+ },
+ {
+   "Hindi": "andhera",
+   "English": "Darkness"
+ },
+ {
+   "Hindi": "chhaya",
+   "English": "Shadow"
+ },
+ {
+   "Hindi": "saagar",
+   "English": "Ocean"
+ },
+ {
+   "Hindi": "aag",
+   "English": "Fire"
+ },
+ {
+   "Hindi": "sach",
+   "English": "Truth"
+ },
+ {
+   "Hindi": "jung",
+   "English": "War"
+ },
+ {
+   "Hindi": "aurat",
+   "English": "Woman"
+ },
+ {
+   "Hindi": "bachcha",
+   "English": "Child"
+ },
+ {
+   "Hindi": "parivar",
+   "English": "Family"
+ },
+ {
+   "Hindi": "gaana",
+   "English": "Song"
+ },
+ {
+   "Hindi": "film",
+   "English": "Movie"
+ },
+ {
+   "Hindi": "mausam",
+   "English": "Weather"
+ },
+ {
+   "Hindi": "garmi",
+   "English": "Heat"
+ },
+ {
+   "Hindi": "toofan",
+   "English": "Storm"
+ },
+ {
+   "Hindi": "sadak",
+   "English": "Road"
+ },
+ {
+   "Hindi": "vichaar",
+   "English": "Thought"
+ },
+ {
+   "Hindi": "bhavna",
+   "English": "Emotion"
+ },
+ {
+   "Hindi": "yaad",
+   "English": "Memory"
+ },
+ {
+   "Hindi": "himmat",
+   "English": "Courage"
+ },
+ {
+   "Hindi": "mazbooti",
+   "English": "Strength"
+ },
+ {
+   "Hindi": "dimaag",
+   "English": "Mind"
+ },
+ {
+   "Hindi": "chamatkaar",
+   "English": "Miracle"
+ },
+ {
+   "Hindi": "adhyatm",
+   "English": "Spirituality"
+ },
+ {
+   "Hindi": "gyan",
+   "English": "Knowledge"
+ },
+ {
+   "Hindi": "vidya",
+   "English": "Wisdom"
+ },
+ {
+   "Hindi": "safar",
+   "English": "Journey"
+ },
+ {
+   "Hindi": "mohabbat",
+   "English": "Affection"
+ },
+ {
+   "Hindi": "bechaini",
+   "English": "Restlessness"
+ },
+ {
+   "Hindi": "shakti",
+   "English": "Power"
+ },
+ {
+   "Hindi": "nasha",
+   "English": "Intoxication"
+ },
+ {
+   "Hindi": "bhookh",
+   "English": "Hunger"
+ },
+ {
+   "Hindi": "pyas",
+   "English": "Thirst"
+ },
+ {
+   "Hindi": "vishwaas",
+   "English": "Trust"
+ },
+ {
+   "Hindi": "prarthana",
+   "English": "Prayer"
+ },
+ {
+   "Hindi": "mandir",
+   "English": "Temple"
+ },
+ {
+   "Hindi": "masjid",
+   "English": "Mosque"
+ },
+ {
+   "Hindi": "girja",
+   "English": "Church"
+ },
+ {
+   "Hindi": "sundarta",
+   "English": "Beauty"
+ },
+ {
+   "Hindi": "bhool",
+   "English": "Mistake"
+ },
+ {
+   "Hindi": "seekhna",
+   "English": "Learning"
+ },
+ {
+   "Hindi": "pratibha",
+   "English": "Talent"
+ },
+ {
+   "Hindi": "vijay",
+   "English": "Victory"
+ },
+ {
+   "Hindi": "haar",
+   "English": "Defeat"
+ },
+ {
+   "Hindi": "koshish",
+   "English": "Effort"
+ },
+ {
+   "Hindi": "lakshya",
+   "English": "Goal"
+ },
+ {
+   "Hindi": "utsah",
+   "English": "Enthusiasm"
+ },
+ {
+   "Hindi": "utsav",
+   "English": "Festival"
+ },
+ {
+   "Hindi": "samarpan",
+   "English": "Devotion"
+ },
+ {
+   "Hindi": "umang",
+   "English": "Excitement"
+ },
+ {
+   "Hindi": "soch",
+   "English": "Thought"
+ },
+ {
+   "Hindi": "vyakti",
+   "English": "Person"
+ },
+ {
+   "Hindi": "ashirwad",
+   "English": "Blessing"
+ },
+ {
+   "Hindi": "dharma",
+   "English": "Religion"
+ },
+ {
+   "Hindi": "nafrat",
+   "English": "Hate"
+ },
+ {
+   "Hindi": "shiksha",
+   "English": "Education"
+ },
+ {
+   "Hindi": "pariksha",
+   "English": "Examination"
+ },
+ {
+   "Hindi": "sangharsh",
+   "English": "Struggle"
+ },
+ {
+   "Hindi": "jitna",
+   "English": "Winning"
+ }
+]

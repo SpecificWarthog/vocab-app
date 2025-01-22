@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#007bff">
+    <meta name="description" content="Project FOB Vocabulary Practice">
+    <title>Project FOB</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <h1>Project FOB</h1>
+        <h2>Vocabulary Practice</h2>
+        <div id="session-streak">
+            <div>Session Longest Streak:</div>
+            <div id="session-streak-count">0</div>
+            <div id="session-streak-bar-container">
+                <div id="session-streak-bar"></div>
+            </div>
+        </div>
+        <div id="all-time-streak">
+            <div>All-Time Longest Streak:</div>
+            <div id="all-time-streak-count">0</div>
+            <div id="all-time-streak-bar-container">
+                <div id="all-time-streak-bar"></div>
+            </div>
+        </div>
+        <div id="word-container">
+            <div id="hindi-word"></div>
+            <div id="english-word"></div>
+        </div>
+        <div id="feedback"></div>
+        <input type="range" id="probability-slider" min="0" max="100" value="60">
+        <div id="slider-value">60%</div>
+        <button id="reset-button">Reset</button>
+        <div id="swipe-instructions">Swipe left for "Incorrect" or right for "Correct"</div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
